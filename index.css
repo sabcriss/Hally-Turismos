@@ -1,0 +1,27 @@
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 8px;
+    
+}
+
+nav { 
+    background-color:rgb(12, 95, 128) ; 
+    flex-direction: initial;
+  
+
+}
+
+
+main {
+    color: black;
+    size: 5cm;
+}
